@@ -1,7 +1,5 @@
 # 👋 Achmad Luthfi Afif
 
-Backend Developer from Indonesia 🇮🇩
-
 Build APIs, business apps, and stuff that actually solve real problems.
 
 When I'm not coding? Just digging into system design, infrastructure, or wondering how big apps handle millions of users.
